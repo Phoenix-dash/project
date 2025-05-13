@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8">
+    <title>Ma première page</title>
+  </head>
+  <body>
+    <header>
+      <h1>Mon Site Web</h1>
+    </header>
+    <nav>
+      <a href="#accueil">Accueil</a>
+      <a href="#contact">Contact</a>
+    </nav>
+    <main>
+      <section>
+        <h2>Bienvenue</h2>
+        <p>Voici ma première page HTML.</p>
+        <img src="image.jpg" alt="Une belle image">
+      </section>
+    </main>
+    <footer>
+      <p>© 2025 - Mon Site Web</p>
+    </footer>
+  </body>
+</html>
